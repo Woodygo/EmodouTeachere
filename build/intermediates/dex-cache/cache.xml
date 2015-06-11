@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\EmodouTeacher\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="F:\EmodouTeacher\app\build\intermediates\pre-dexed\debug\classes-b4b7f8fc7f8a259f8414e8d810fe09cd48418f1e.jar" />
+    </item>
+    <item
+        jar="F:\EmodouTeacher\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="F:\EmodouTeacher\app\build\intermediates\pre-dexed\debug\classes-93d7b2f38e63b34cb0fcb301b5529a6e359888c7.jar" />
+    </item>
+    <item
+        jar="F:\EmodouTeacher\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="F:\EmodouTeacher\app\build\intermediates\pre-dexed\debug\classes-7bd6177f73985fad97b8a10f88265b801c5f058f.jar" />
+    </item>
+    <item
+        jar="F:\EmodouTeacher\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="F:\EmodouTeacher\app\build\intermediates\pre-dexed\debug\classes-8aa0ec4be4ce1135dddba40852ee14070e1cdc3f.jar" />
+    </item>
+    <item
+        jar="F:\EmodouTeacher\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="F:\EmodouTeacher\app\build\intermediates\pre-dexed\debug\classes-3622a768ddc7624efc7cd654319acccac69be1a3.jar" />
+    </item>
+    <item
+        jar="F:\EmodouTeacher\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="F:\EmodouTeacher\app\build\intermediates\pre-dexed\debug\classes-f2c75935a6849c35389d07c234c5ad8b448e0c54.jar" />
+    </item>
+    <item
+        jar="F:\EmodouTeacher\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="F:\EmodouTeacher\app\build\intermediates\pre-dexed\debug\classes-7bd3deb56e2249f3173e8adb4b06713684b344c8.jar" />
+    </item>
+    <item
+        jar="F:\EmodouTeacher\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="F:\EmodouTeacher\app\build\intermediates\pre-dexed\debug\classes-af3fc028bde2f9ef42f72bcb9578e10e7e829805.jar" />
+    </item>
+    <item
+        jar="F:\EmodouTeacher\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="F:\EmodouTeacher\app\build\intermediates\pre-dexed\debug\classes-02ea23efbff33f6c7e6089bbe065742e90902b47.jar" />
+    </item>
+    <item
+        jar="F:\EmodouTeacher\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="F:\EmodouTeacher\app\build\intermediates\pre-dexed\debug\classes-bf7ef039b11a76508ab516511d83443029bb8858.jar" />
+    </item>
+    <item
+        jar="F:\EmodouTeacher\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="F:\EmodouTeacher\app\build\intermediates\pre-dexed\debug\classes-1f0f5c96bb2d6675496fec87665531eb6c43746f.jar" />
+    </item>
+    <item
+        jar="F:\EmodouTeacher\app\build\intermediates\exploded-aar\com.pascalwelsch.holocircularprogressbar\library\1.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dedec9c344707c70c60547595a1b32a3849d8bc5">
+        <dex dex="F:\EmodouTeacher\app\build\intermediates\pre-dexed\debug\classes-6608850dcfd42647313442defdd3c9d06e09ff8b.jar" />
+    </item>
+    <item
+        jar="F:\EmodouTeacher\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="F:\EmodouTeacher\app\build\intermediates\pre-dexed\debug\classes-319ee12940a16623e7fd139b8a8b1c112090f7b5.jar" />
+    </item>
+    <item
+        jar="F:\EmodouTeacher\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="F:\EmodouTeacher\app\build\intermediates\pre-dexed\debug\classes-da198d7bae8baf4c771810bcff2a82934d454072.jar" />
+    </item>
+    <item
+        jar="C:\Users\woody\.gradle\caches\modules-2\files-2.1\com.hannesdorfmann.fragmentargs\annotation\2.1.0\1cb94e37bc19d5cd29317223386a1a6977968471\annotation-2.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1cb94e37bc19d5cd29317223386a1a6977968471">
+        <dex dex="F:\EmodouTeacher\app\build\intermediates\pre-dexed\debug\annotation-2.1.0-c683562878f6ddb9de223ed25c3f48f80b3964ed.jar" />
+    </item>
+    <item
+        jar="F:\EmodouTeacher\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="F:\EmodouTeacher\app\build\intermediates\pre-dexed\debug\classes-2b12b472009c5a77112abe6728e52d74151dfc05.jar" />
+    </item>
+    <item
+        jar="F:\EmodouTeacher\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="F:\EmodouTeacher\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-e2555054ccc746e2189fc6fe1ff3008c0271d801.jar" />
+    </item>
+    <item
+        jar="F:\EmodouTeacher\app\libs\circleimage.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f2215fca54f49dd832cf0d5ef71971050475eeb1">
+        <dex dex="F:\EmodouTeacher\app\build\intermediates\pre-dexed\debug\circleimage-118bb76f80445b6c991c2e26ceb246bdc4a3ea99.jar" />
+    </item>
+    <item
+        jar="F:\EmodouTeacher\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="F:\EmodouTeacher\app\build\intermediates\pre-dexed\debug\classes-d3e9728187ae0bbfccbc0fa877dc59afa076e276.jar" />
+    </item>
+    <item
+        jar="C:\Users\woody\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="F:\EmodouTeacher\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-c05d26946d815ef7424754be78d9011223faa8ee.jar" />
+    </item>
+    <item
+        jar="F:\EmodouTeacher\app\libs\universal-image-loader-1.9.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f667a2f4f27542fe11a6781f5f7ac572d27afcec">
+        <dex dex="F:\EmodouTeacher\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.0-5a0e5417a60538d30dbc9de0ef771f521d4b2d66.jar" />
+    </item>
+    <item
+        jar="F:\EmodouTeacher\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="F:\EmodouTeacher\app\build\intermediates\pre-dexed\debug\classes-221cabce6ed40a3bb4dcca1efc6b28c217b38b33.jar" />
+    </item>
+    <item
+        jar="F:\EmodouTeacher\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="F:\EmodouTeacher\app\build\intermediates\pre-dexed\debug\classes-e0e8419e39e80577e6e2015b8edd359eebb15ef1.jar" />
+    </item>
+    <item
+        jar="F:\EmodouTeacher\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="F:\EmodouTeacher\app\build\intermediates\pre-dexed\debug\classes-f56ffe00b354cfc1414fa3ead95cfcc9942ea0b1.jar" />
+    </item>
+    <item
+        jar="F:\EmodouTeacher\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="F:\EmodouTeacher\app\build\intermediates\pre-dexed\debug\classes-5563e5b3a857cdc0a599acc268eeec39d1e6441f.jar" />
+    </item>
+    <item
+        jar="F:\EmodouTeacher\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="F:\EmodouTeacher\app\build\intermediates\pre-dexed\debug\classes-a33dd2babea4bd9e27202598adab4ee079039c0a.jar" />
+    </item>
+    <item
+        jar="F:\EmodouTeacher\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a43cf9e271b5bc564e880a0a4be63ab9c69c97f8">
+        <dex dex="F:\EmodouTeacher\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0-0d7f1b471e99988fb7d7672d4fad320efe9b6c88.jar" />
+    </item>
+    <item
+        jar="F:\EmodouTeacher\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="F:\EmodouTeacher\app\build\intermediates\pre-dexed\debug\classes-bda9ab371e6b864c77a356f073710031ee042016.jar" />
+    </item>
+    <item
+        jar="F:\EmodouTeacher\app\libs\umeng-update-v2.6.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7bfeea30c4995f90a4374ce4177772a4579f2797">
+        <dex dex="F:\EmodouTeacher\app\build\intermediates\pre-dexed\debug\umeng-update-v2.6.0.1-297c9d365025c0a37c181d3b40b82aaec343248a.jar" />
+    </item>
+    <item
+        jar="F:\EmodouTeacher\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="F:\EmodouTeacher\app\build\intermediates\pre-dexed\debug\classes-6046f2fe50610ab4b4176a4feadc7a007106336f.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">EmodouTeacher</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="userinfo">个人信息</string>
+    <string name="mybean">我的魔豆</string>
+    <string name="mycollection">我的收藏</string>
+    <string name="myclass">课堂学习情况</string>
+    <string name="personality">个性化设计</string>
+    <string name="mylist">综合排行榜</string>
+    <string name="set">设置</string>
+    <string name="home_title">易魔豆英语</string>
+    <string name="choose_package">选择学习包</string>
+    <string name="choose_book">选择课本</string>
+    <string name="login_phone_hint">请输入手机号</string>
+    <string name="assignment">作业</string>
+    <string name="solve_puzzle">答疑</string>
+    <string name="notice">通知</string>
+    <string name="title_activity_course_list">CourseListActivity</string>
+</resources>

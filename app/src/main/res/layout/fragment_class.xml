@@ -1,0 +1,72 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.emodou.teacher.emodouteacher.fragment.ClassFragment">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/empty_cart_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#e4e4e4">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="#f1f1f1"
+            android:orientation="vertical">
+
+
+            <LinearLayout
+                android:id="@+id/linearLayout1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="5dip"
+                android:paddingTop="5dip">
+
+                <TextView
+                    android:id="@+id/tv_assignment"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1.0"
+                    android:gravity="center"
+                    android:text="@string/assignment"
+                    android:textColor="#9c9897"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:id="@+id/tv_solve_puzzle"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1.0"
+                    android:gravity="center"
+                    android:text="@string/solve_puzzle"
+                    android:textColor="#dedede"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:id="@+id/tv_notice"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1.0"
+                    android:gravity="center"
+                    android:text="@string/notice"
+                    android:textColor="#dedede"
+                    android:textSize="14sp" />
+            </LinearLayout>
+
+
+            <android.support.v4.view.ViewPager
+                android:id="@+id/vp_class"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1.0"
+                android:flipInterval="30"
+                android:persistentDrawingCache="animation" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>

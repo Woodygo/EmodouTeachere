@@ -1,0 +1,33 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion "21.1.2"
+
+    defaultConfig {
+        applicationId "com.emodou.teacher.emodouteacher.emodouteacher"
+        minSdkVersion 14
+        targetSdkVersion 21
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile files('libs/circleimage.jar')
+    compile files('libs/nineoldandroids-2.4.0.jar')
+    compile files('libs/universal-image-loader-1.9.0.jar')
+    compile project(':library')
+    compile 'com.android.support:support-v4:22.1.1'
+    compile 'com.android.support:appcompat-v7:22.1.1'
+    compile 'com.hannesdorfmann.fragmentargs:annotation:2.1.0'
+    compile 'com.google.android.gms:play-services:7.3.0'
+    compile files('libs/umeng-update-v2.6.0.1.jar')
+}
